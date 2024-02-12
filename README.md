@@ -1,7 +1,7 @@
 <h1>AROS (Auto Reporing Obstacle System)</h1>
 <p>
 
-Building a model to detect the road obstacles like potholes and rocks using SSD MobilenetV2
+Building a model to detect the road's obstacles like potholes and rocks using SSD MobilenetV2.
 
 But first we are expreminting with Tensorflow Object detection API to understand it more
 so we can apply it for obstacle detection, we firstly tryed to train and run our model to detect sign language
